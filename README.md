@@ -1,6 +1,6 @@
 # Algoritmos e Estruturas de Dados II - UFPel (2025/2)
 
-## 📄 Sobre o Repositório
+## Sobre o Repositório
 
 Este repositório é dedicado ao armazenamento dos trabalhos práticos, anotações de estudo e implementações de algoritmos desenvolvidos durante a disciplina de **Algoritmos e Estruturas de Dados II**, na Universidade Federal de Pelotas (UFPel).
 
